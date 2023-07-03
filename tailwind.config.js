@@ -4,7 +4,7 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",],
   theme: {
     extend: {
-      'hero-pattern': "url('https://www.pexels.com/es-es/foto/1907785/')",
+      'hero-pattern': 'url("https://www.pexels.com/es-es/foto/1907785/")',
     },
   },
   plugins: [],
